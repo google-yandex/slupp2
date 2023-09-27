@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Slope 2" />
+<Content type="html"><![CDATA[
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Slope 2 - UBlocker</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/gameloader.css" />
+<script src="https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/gameloader.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<script type="text/javascript">
+      var options = {
+        author: "Vseigru",        
+        logo: "logo.jpg",
+        gameName: "Slope 2",
+        gameNameEu: "Slope 2",
+        gameUrl: "https://sites.google.com/view/games-unblockedd/",
+        moreLink: ("https://sites.google.com/view/games-unblockedd/"),
+        allowFullscreen: false,
+        locale: "en_US",
+        loader: "5.6.x",
+        loaderOptions: {"moduleJsonUrl": "https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/Slope2.json", "unityLoaderUrl": "https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/UnityLoader.js"},
+      };
+      GameInit.load(options);
+    </script>
+  <script language="JavaScript" type="text/javascript">
+    //<![CDATA[
+        window.onbeforeunload = function(){
+            return 'Are you sure you want to leave?';
+        };
+    //]]>
+</script>
+</body>
+</html>
+
+
+]]></Content>
+</Module>

@@ -1,9 +1,9 @@
 {
 "companyName": "UBlocker",
 "productName": "Slope 2",
-"dataUrl": "d.unityweb",
-"wasmCodeUrl": "Slope 2.wasm.code.unityweb",
-"wasmFrameworkUrl": "Slope 2.wasm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/d.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/Slope2.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/Slope2.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
