@@ -5,8 +5,8 @@
 <html>
 <head>
 <title>Slope 2 - UBlocker</title>
-<link rel="stylesheet" href="Components/gameloader.css" />
-<script src="Components/gameloader.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/gameloader.css" />
+<script src="https://cdn.jsdelivr.net/gh/google-yandex/slupp2@main/Components/gameloader.js"></script>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
